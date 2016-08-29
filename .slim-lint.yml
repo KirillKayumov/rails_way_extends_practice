@@ -6,7 +6,7 @@ linters:
 
   ConsecutiveControlStatements:
     enabled: true
-    max_consecutive: 2
+    max_consecutive: 4
 
   EmptyControlStatment:
     enabled: true
